@@ -1,17 +1,18 @@
 # Tracalire
 # Track foo calorie apps
-# Build using vanilla materialize framework, font awesomeness, javascript & localstorage.
+# Build using materialize cs framework, font awesomeness, javascript & localstorage.
 
 # To Dos:
   * [] Build UI
-    * [] materialize framework cdn
-    * [] font awesomeness cdn
-    * [] jquery js cdn
-    * [] ? cdn
-    * [] add app.js
+    * [x] materialize framework cdn
+    * [x] font awesomeness cdn
+    * [x] jquery js cdn
+    * [x] materialize cdn
+    * [x] UI display
+    * [x] add app.js
   * App.js
-    * [] Seed dummy data
-    * [] Controllers
+    * [x] Seed dummy data
+    * [x] Controllers
     * [] Read data
     * [] Create data
 
