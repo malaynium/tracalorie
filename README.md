@@ -13,6 +13,6 @@
   * App.js
     * [x] Seed dummy data
     * [x] Controllers
-    * [] Read data
+    * [x] Read data
     * [] Create data
 
