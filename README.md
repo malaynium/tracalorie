@@ -15,4 +15,10 @@
     * [x] Controllers
     * [x] Read data
     * [] Create data
+    * [] Count Total calorie
+    * [] Edit
+    * [] Update item & Total calorie
+    * [] Delete
+    * [] Add & get from local storage
+    * [] Delete & clear from local storage
 
