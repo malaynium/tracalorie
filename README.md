@@ -14,7 +14,7 @@
     * [x] Seed dummy data
     * [x] Controllers
     * [x] Read data
-    * [] Create data
+    * [x] Create data
     * [] Count Total calorie
     * [] Edit
     * [] Update item & Total calorie
